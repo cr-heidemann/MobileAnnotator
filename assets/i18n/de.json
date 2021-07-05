@@ -1,0 +1,130 @@
+{
+    "MENU-BAR": {
+        "TITLE": "MobileAnnotator",
+        "LOGIN": "Anmelden",
+        "LOGOUT": "Abmelden"
+    },
+    "MENU-TOOL-BAR": {
+        "BACK": "Zurück"
+    },
+    "MENU-LOAD-PROGRESS": {
+        "TITLE": "Lade Daten ...",
+        "LOAD-CAS": "Dokument wird geladen",
+        "CAS-LOADED": "Dokument geladen",
+        "CAS-PANDING": "Dokument ausstehend",
+        "LOAD-VIEW": "Sicht wird geladen",
+        "VIEW-LOADED": "Sicht geladen",
+        "VIEW-PENDING": "Sicht ausstehend",
+        "LOAD-TOOL": "Werkzeug wird geladen",
+        "TOOL-LOADED": "Werkzeug geladen",
+        "TOOL-PENDING": "Werkzeug ausstehend",
+        "CANCEL": "Abbrechen",
+        "LOAD-ERROR-CAS": "Dokument nicht geladen",
+        "LOAD-ERROR-VIEW": "Sicht nicht geladen",
+        "LOAD-ERROR-TOOL": "Werkzeug nicht geladen"
+    },
+    "USER-DASHBOARD": {
+        "TITLE": "Dashboard",
+        "TASKS": "Aufgaben:",
+        "NO-TASKS": "-- keine Aufgaben --",
+        "OPEN-DOCUMENTS": "Dokumente",
+        "TABLE-DONE": "Fertig?",
+        "TABLE-TOOL": "Werkzeug"
+    },
+    "USER-LOGIN": {
+        "TITLE": "Anmeldung",
+        "LOGIN": "Anmelden",
+        "GUEST": "Gast Zugang",
+        "USERNAME": "Nutzername",
+        "PASSWORD": "Passwort"
+    },
+    "CONTENT-DOCUMENT": {
+        "CAS": "Aktuelles Dokument",
+        "NO-CAS": "Kein Dokument geladen.",
+        "TEXT": "Inhalt",
+        "VIEW": "Aktuelle Sicht",
+        "VIEW-ERROR": "Fehler beim Laden der Sicht",
+        "VIEW-LOADING": "Sicht wird geladen...",
+        "NO-VIEW": "Keine Sicht gewählt",
+        "TOOL": "Werkzeug öffnen"
+    },
+    "CONTENT-DOCUMENT-SELECT": {
+        "TITLE": "Dokumente",
+        "CANCEL": "Abbrechen",
+        "TABLE-NAME": "Name",
+        "TABLE-TYPE": "Typ",
+        "BACK": "Zurück"
+    },
+    "POPUP-PICKER": {
+        "METHAPHER": "Methapher",
+        "METONYM": "Metonym",
+        "ANNOTATION-LABEL": "Entitäten",
+        "CONCEPT-LABEL": "Konzepte",
+        "LASTANNOS": "Zuletzt verwendet:"
+    },
+    "POPUP-FILTER": {
+        "TITLE": "Filterung",
+        "OK": "Bestätigen",
+        "ANNOTATION-LABEL": "Entitäten",
+        "CONCEPT-LABEL": "Konzepte",
+        "UNSELECT": "Auswahl aufheben"
+    },
+    "POPUP-COMMENTS": {
+        "TITLE": "Kommentare",
+        "USER-LOADING": "wird geladen ...",
+        "USER-ERROR": "-Fehler beim Laden-",
+        "NEWCOMMENT": "Neuer Kommentar",
+        "SEND": "Speichern"
+    },
+    "TOOL-QUICKANNO": {
+        "TITLE": "QuickAnnotator",
+        "NOSELECT": "Annotation wählen",
+        "ITEMS": "Elemente pro Seite",
+        "MODES": "Modus Auswahl",
+        "MODE-ONE": "Mehrfache Anno.",
+        "MODE-TWO": "Einzelne Anno.",
+        "MODE-THREE": "Kommentare",
+        "FILTER": "Filter",
+        "SAVE": "Speichern"
+    },
+    "TOOL-SEM-AF": {
+        "TITLE": "ISO Space Annotator",
+        "NOSELECT": "Annotation wählen",
+        "ITEMS": "Elemente pro Seite",
+        "MODES": "Modus Auswahl",
+        "MODE-ONE": "Mehrfache Anno.",
+        "MODE-TWO": "Einzelne Anno.",
+        "MODE-THREE": "Kommentare",
+        "FILTER": "Filter",
+        "SAVE": "Speichern"
+    },
+    "TOOL-KNOWLEDGEBASE": {
+        "TITLE": "KnowledgeBase",
+        "ITEMS": "Elemente pro Seite",
+        "FILTER": "Filter",
+        "SAVE": "Speichern",
+        "NEW-ANNO": "Neuer Eintrag",
+        "ANNO-SOURCE": "Quelle",
+        "ANNO-TEXT": "Name",
+        "KNOWLEDGE-PICKER-TITLE": "Ontologie Suche",
+        "KNOWLEDGE-PICKER-SEARCH": "Suchen",
+        "KNOWLEDGE-PICKER-INPUT": "Eingabe",
+        "KNOWLEDGE-PICKER-SOURCE": "Quelle",
+        "KNOWLEDGE-PICKER-SEARCHRESULT": "Suchergebnis",
+        "KNOWLEDGE-PICKER-PICK": "Auswählen"
+    },
+    "CONTENT-CONTENTHOLDER": {
+        "PAGE": "Seite",
+        "DELETE-MULTI": "Multitoken auflösen"
+    },
+    "MESSAGES": {
+        "LOGIN-ERROR": "Name oder Passwort falsch!",
+        "LOGIN-SUCCESS": "Anmeldung erfolgreich!",
+        "WEBSOCKET-OPEN": "Verbindung hergestellt",
+        "WEBSOCKET-PENDING": "Verbindungsaufbau ...",
+        "WEBSOCKET-CLOSED": "Verbindung verloren",
+        "CAS-SAVED": "Dokument gespeichert",
+        "SERVER-ERROR": "Server Fehler",
+        "NO-SEARCH-RESULT": "Suche ergab kein Treffer"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "MENU-BAR": {
+        "LOGIN": "login",
+        "LOGOUT": "logout",
+        "TITLE": "MobileAnnotator"
+    },
+    "MENU-TOOL-BAR": {
+        "BACK": "back"
+    },
+    "MENU-LOAD-PROGRESS": {
+        "TITLE": "Loading data ...",
+        "LOAD-CAS": "loading document",
+        "CAS-LOADED": "document loaded",
+        "CAS-PENDING": "document peinding",
+        "LOAD-VIEW": "loading view",
+        "VIEW-LOADED": "view loaded",
+        "VIEW-PENDING": "view pending",
+        "LOAD-TOOL": "loading tool",
+        "TOOL-LOADED": "tool loaded",
+        "TOOL-PENDING": "tool pending",
+        "CANCEL": "cancel",
+        "LOAD-ERROR-CAS": "document not loaded",
+        "LOAD-ERROR-VIEW": "view not loaded",
+        "LOAD-ERROR-TOOL": "tool not loaded"
+    },
+    "USER-DASHBOARD": {
+        "TITLE": "Dashboard",
+        "TASKS": "Tasks:",
+        "NO-TASKS": "-- no tasks --",
+        "OPEN-DOCUMENTS": "documents",
+        "TABLE-DONE": "done?",
+        "TABLE-TOOL": "tool"
+    },
+    "USER-LOGIN": {
+        "TITLE": "sign in",
+        "LOGIN": "login",
+        "GUEST": "guest login",
+        "USERNAME": "username",
+        "PASSWORD": "password"
+    },
+    "CONTENT-DOCUMENT": {
+        "CAS": "Current document",
+        "NO-CAS": "No document loaded.",
+        "TEXT": "Content",
+        "VIEW": "Current view",
+        "VIEW-ERROR": "Error while loading view",
+        "VIEW-LOADING": "View is loading...",
+        "NO-VIEW": "No view selected",
+        "TOOL": "open tool"
+    },
+    "CONTENT-DOCUMENT-SELECT": {
+        "TITLE": "Documents",
+        "CANCEL": "cancel",
+        "TABLE-NAME": "name",
+        "TABLE-TYPE": "type",
+        "BACK": "back"
+    },
+    "POPUP-PICKER": {
+        "METHAPHER": "Methapher",
+        "METONYM": "Metonym",
+        "ANNOTATION-LABEL": "Entities",
+        "CONCEPT-LABEL": "Concepts",
+        "LASTANNOS": "last used:"
+    },
+    "POPUP-FILTER": {
+        "TITLE": "Filter",
+        "OK": "Accept",
+        "ANNOTATION-LABEL": "Entities",
+        "CONCEPT-LABEL": "Concepts",
+        "UNSELECT": "unselect all"
+    },
+    "POPUP-COMMENTS": {
+        "TITLE": "Comments",
+        "USER-LOADING": "loading ...",
+        "USER-ERROR": "-error while loading-",
+        "NEWCOMMENT": "New comment",
+        "SEND": "save"
+    },
+    "TOOL-QUICKANNO": {
+        "TITLE": "QuickAnnotator",
+        "NOSELECT": "change annotation",
+        "ITEMS": "Items per page",
+        "MODES": "mode selection",
+        "MODE-ONE": "repeated anno.",
+        "MODE-TWO": "single anno.",
+        "MODE-THREE": "comments",
+        "FILTER": "filter",
+        "SAVE": "save"
+    },
+    "TOOL-SEM-AF": {
+        "TITLE": "ISO Space Annotator",
+        "NOSELECT": "change annotation",
+        "ITEMS": "Items per page",
+        "MODES": "mode selection",
+        "MODE-ONE": "repeated anno.",
+        "MODE-TWO": "single anno.",
+        "MODE-THREE": "comments",
+        "FILTER": "filter",
+        "SAVE": "save"
+    },
+    "SEM-AF-POPUP-PICKER": {
+        "LINK-LABEL": "Link"
+    },
+    "TOOL-KNOWLEDGEBASE": {
+        "TITLE": "KnowledgeBase",
+        "ITEMS": "Items per page",
+        "FILTER": "filter",
+        "SAVE": "save",
+        "NEW-ANNO": "add entry",
+        "ANNO-SOURCE": "source",
+        "ANNO-TEXT": "name",
+        "KNOWLEDGE-PICKER-TITLE": "Ontology search",
+        "KNOWLEDGE-PICKER-SEARCH": "search",
+        "KNOWLEDGE-PICKER-SOURCE": "Source",
+        "KNOWLEDGE-PICKER-INPUT": "Search input",
+        "KNOWLEDGE-PICKER-SEARCHRESULT": "search result",
+        "KNOWLEDGE-PICKER-PICK": "select"
+    },
+    "CONTENT-CONTENTHOLDER": {
+        "PAGE": "Page",
+        "DELETE-MULTI": "disband multitoken"
+    },
+    "MESSAGES": {
+        "LOGIN-ERROR": "incorrect name or password!",
+        "LOGIN-SUCCESS": "login accepted!",
+        "WEBSOCKET-OPEN": "connection established",
+        "WEBSOCKET-PENDING": "connecting ...",
+        "WEBSOCKET-CLOSED": "connection lost",
+        "CAS-SAVED": "document saved",
+        "SERVER-ERROR": "server error",
+        "NO-SEARCH-RESULT": "no matches found"
+    }
+}
