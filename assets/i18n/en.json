@@ -90,7 +90,9 @@
     "TOOL-SEM-AF": {
         "TITLE": "ISO Space Annotator",
         "NOSELECT": "change annotation",
-        "ITEMS": "Items per page",
+        "ITEMS": " page",
+        "SIZE" : "Font size",
+        "LINKS": "all links", 
         "MODES": "mode selection",
         "MODE-ONE": "repeated anno.",
         "MODE-TWO": "single anno.",
